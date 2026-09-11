@@ -12,92 +12,57 @@
 </head>
 <body>
 <div class="ambient"></div>
-
-<main id="app" aria-live="polite">
+<main id="app">
   <section id="cover" class="screen cover-screen active">
     <div class="cover-book">
       <div class="cover-stamp">XLRI Jamshedpur</div>
       <div class="cover-mark">XLRI</div>
       <p class="eyebrow">PGDM-BM • BLENDED LEARNING</p>
       <h1>Batch<br><em>of 2026</em></h1>
-      <p class="cover-line">39 people. One journey. A thousand little memories.</p><p class="cover-subline">Our people. Our stories. Our memories.</p>
+      <p class="cover-line">39 people. One journey. A thousand little memories.</p>
+      <p class="cover-subline">Our people. Our stories. Our memories.</p>
       <div class="cover-rule"></div>
       <p class="cover-small">XLRI Jamshedpur · BM 24–26</p>
       <button id="openBtn" class="primary-btn">Open the Yearbook <span>→</span></button>
     </div>
   </section>
 
-  <section id="book" class="screen book-screen">
+  <section id="book" class="screen book-screen" aria-label="Digital yearbook">
     <header class="topbar">
       <button class="brand-btn" id="homeBtn" aria-label="Back to cover"><span>XLRI</span><small>BM 24–26</small></button>
       <div class="top-actions">
-        <button class="ghost-btn" id="indexBtn">☰ <span>Yearbook Index</span></button>
-        <button class="ghost-btn" id="surpriseBtn">🎲 <span>Surprise Me</span></button><button class="ghost-btn" id="memoryBtn">✦ <span>Memory Wall</span></button>
+        <button class="ghost-btn" id="indexBtn">☰ <span>Index</span></button>
+        <button class="ghost-btn" id="memoryBtn">✦ <span>Memory Wall</span></button>
       </div>
     </header>
 
     <div class="book-stage">
       <div class="book-shadow"></div>
-      <div id="bookSpread" class="book-spread" tabindex="0">
-        <article class="paper left-page" id="leftPage">
-          <div class="page-inner" id="leftContent"></div>
-          <div class="page-number" id="leftPageNo"></div>
-        </article>
-        <article class="paper right-page" id="rightPage">
-          <div class="page-inner" id="rightContent"></div>
-          <div class="page-number" id="rightPageNo"></div>
-        </article>
-        <div id="turnPage" class="turn-page" aria-hidden="true"></div>
+      <div id="bookSheet" class="book-sheet" tabindex="0">
+        <div id="sheetContent" class="sheet-content"></div>
+        <div id="turnOverlay" class="turn-overlay" aria-hidden="true"></div>
       </div>
     </div>
 
     <div class="book-controls">
       <button id="prevBtn" class="nav-btn">← <span>Previous</span></button>
-      <div class="counter"><strong id="counter">1 / 39</strong><span>people</span></div>
+      <div class="counter"><strong id="counter">1 / 42</strong><span>pages</span></div>
       <button id="nextBtn" class="nav-btn"><span>Next</span> →</button>
     </div>
-    <div class="hint">Use ← → or swipe to turn the pages</div>
+    <div class="hint">Use ← →, swipe, or the controls to turn the pages</div>
   </section>
 
   <section id="indexScreen" class="screen overlay-screen">
     <div class="panel index-panel">
       <div class="panel-head">
-        <div>
-          <p class="eyebrow">EXPLORE THE BOOK</p>
-          <h2>Yearbook Index</h2>
-        </div>
+        <div><p class="eyebrow">EXPLORE THE BOOK</p><h2>Yearbook Index</h2></div>
         <button class="close-btn" id="closeIndex">×</button>
       </div>
-      <div class="search-wrap">
-        <span>⌕</span><input id="searchInput" type="search" placeholder="Find a friend…" autocomplete="off">
-      </div>
+      <div class="search-wrap"><span>⌕</span><input id="searchInput" type="search" placeholder="Search a name…" autocomplete="off"></div>
       <div id="indexGrid" class="index-grid"></div>
     </div>
   </section>
-
-  <section id="memoryScreen" class="screen overlay-screen">
-    <div class="panel memory-panel">
-      <div class="panel-head">
-        <div>
-          <p class="eyebrow">ONE LAST THING…</p>
-          <h2>Memory Wall</h2>
-        </div>
-        <button class="close-btn" id="closeMemory">×</button>
-      </div>
-      <p class="memory-intro">The little things that somehow became the big memories.</p>
-      <div class="memory-grid">
-        <div class="memory-card tilt-a"><span>01</span><p>“We survived presentations.”</p></div>
-        <div class="memory-card tilt-b"><span>02</span><p>“And somehow still submitted at 11:59 PM.”</p></div>
-        <div class="memory-card tilt-c"><span>03</span><p>“The WhatsApp group deserves its own chapter.”</p></div>
-        <div class="memory-card tilt-d"><span>04</span><p>“One journey. A thousand little memories.”</p></div>
-        <div class="memory-card tilt-e"><span>05</span><p>“From campus components to the finish line.”</p></div>
-        <div class="memory-card tilt-f"><span>06</span><p>“Somehow, we made it to the last page.”</p></div>
-      </div>
-      <button id="memoryBack" class="primary-btn small-btn">Back to the Yearbook →</button>
-    </div>
-  </section>
 </main>
-
 <script src="data.js"></script>
 <script src="script.js"></script>
 </body>
