@@ -43,7 +43,7 @@ const YEARBOOK_PEOPLE = [
     "name": "Aditya Khorana",
     "role": "PGDM-BM • Batch of 2026",
     "type": "student",
-    "photo": null,
+    "photo": "images/aditya-khorana.jpeg",
     "note": "Aditya is an incredibly sincere, dedicated and hardworking person who always keeps the group connected and on track. Despite his time constraints and constant travelling, he consistently manages everything with remarkable commitment. He is also an excellent friend, always knowing how to cheer everyone up and bring positive energy to the group. What truly stands out is his leadership, dependability, and inspiring personality. I deeply respect him for the qualities he possesses and the way he motivates everyone around him. Wishing you all the very best, Aditya. Keep inspiring, leading, and achieving great things!",
     "hasNote": true
   },
