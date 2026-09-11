@@ -147,7 +147,7 @@ const YEARBOOK_PEOPLE = [
     "name": "Manvendra Singh",
     "role": "PGDM-BM • Batch of 2026",
     "type": "student",
-    "photo": null,
+    "photo": "images/manvendra-singh.jpeg",
     "note": "Witty, intelligent, well read person of our batch and the Mafias 🔥with a sharp sense of humor. Might as be the next Dhirubhai( enterprinter) of the nation. I’m really glad our two years of studying together turned into a friendship that I value. Hope to have met ur daughter this time.",
     "hasNote": true
   },
