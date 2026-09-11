@@ -83,7 +83,7 @@ const YEARBOOK_PEOPLE = [
     "name": "Anujay Dutt",
     "role": "PGDM-BM • Batch of 2026",
     "type": "student",
-    "photo": null,
+    "photo": "images/anujay-dutt.jpeg",
     "note": "During our starting days, even before our classes had begun, I got in touch with Anujay. He asked me, “I missed the class… can you teach me?” 😂 At that time, I thought, Wow, he looks like such a studious person! Later, I got to know the original truth… hahaha! 😄\n\nHowever, the friendship we have built over these two years has been truly fantastic. Somewhere along the way, our families have also bonded so beautifully. We’ve been to each other’s homes so many times that they hardly feel like someone else’s place anymore — they feel like home sweet home. ❤️\n\nAnd I genuinely believe the bond we’ve created is strong and special. I hope it always stays the same, AJ. Here’s to many more memories, laughter, and years of friendship! 🥂❤️",
     "hasNote": true
   },
@@ -155,7 +155,7 @@ const YEARBOOK_PEOPLE = [
     "name": "Navya Goyal",
     "role": "PGDM-BM • Batch of 2026",
     "type": "student",
-    "photo": null,
+    "photo": "images/navya-goyal.jpeg",
     "note": "Navya is identified as one of the youngest in our batch .Someone who is chirpy ,confident and speaks out loud.Everyone has a calling in life and she has to be an enterprenuer probably something she has inherited from her family lineage.Her field is that of sustainable decor and she seeks to make an impact in it.Overall a friend whose heart is in the right place.",
     "hasNote": true
   },
