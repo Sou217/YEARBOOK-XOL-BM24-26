@@ -60,8 +60,7 @@ const YEARBOOK_PEOPLE = [
     "role": "PGDM-BM • Batch of 2026",
     "type": "student",
     "photo": "images/amolya-sharma.jpeg",
-    "note": "Someone who is always full of energy, fun and a little bit of craziness! She has a way of making even the most boring days fun with her jokes, random gossip and crazy conversations. One of the most genuine and warm people you can come across. She knows how to have fun, but at the same time is someone people can always count on. Full of life, caring and always up for some madness. Definitely someone who made the MBA journey a little more fun and memorable.
-",
+    "note": "Someone who is always full of energy, fun and a little bit of craziness! She has a way of making even the most boring days fun with her jokes, random gossip and crazy conversations. One of the most genuine and warm people you can come across. She knows how to have fun, but at the same time is someone people can always count on. Full of life, caring and always up for some madness. Definitely someone who made the MBA journey a little more fun and memorable.",
     "hasNote": false
   },
   {
