@@ -61,7 +61,7 @@ const YEARBOOK_PEOPLE = [
     "type": "student",
     "photo": "images/amolya-sharma.jpeg",
     "note": "Someone who is always full of energy, fun and a little bit of craziness! She has a way of making even the most boring days fun with her jokes, random gossip and crazy conversations. One of the most genuine and warm people you can come across. She knows how to have fun, but at the same time is someone people can always count on. Full of life, caring and always up for some madness. Definitely someone who made the MBA journey a little more fun and memorable.",
-    "hasNote": false
+    "hasNote": true
   },
   {
     "name": "Ankith Murali",
@@ -107,7 +107,7 @@ const YEARBOOK_PEOPLE = [
     "name": "B Lakshmi Priya",
     "role": "PGDM-BM • Batch of 2026",
     "type": "student",
-    "photo": "images/blakshmi-priya.jpeg",
+    "photo": "images/blakshmi-priya.jpg",
     "note": "Dear Lakshmipriya,\n\nWhen we first met during our first Campus Component, my impression of you was that you were a very quiet and reserved person. However, as we spent more time together through our cohort activities and especially during CC3, I had the opportunity to know you much better.\n\nWhat stood out to me was not just your intelligence, but also your kindness and willingness to help others. You have always been cooperative, thoughtful, and approachable, making it easy for people around you to feel comfortable. Your calm and composed nature is truly admirable, and at the same time, your fun-loving spirit brings warmth and positivity to every interaction.\n\nIt has been wonderful getting to know you over these two years. Wishing you continued success, happiness, and fulfillment in everything you do. I'm sure you'll make a positive impact wherever life takes you.\n\nBest wishes always!",
     "hasNote": true
   },
@@ -179,7 +179,7 @@ const YEARBOOK_PEOPLE = [
     "name": "Pranav Venkatesh Bhat",
     "role": "PGDM-BM • Batch of 2026",
     "type": "student",
-    "photo": "images/pranavventakesh-bhat.jpeg",
+    "photo": "images/pranav-ventakeshbhat.jpeg",
     "note": "Who knew Pranav and I would end up in the same cohort from Day 1 not something either of us probably expected, but two years later, I’d say I have quite a story to tell! Countless debates, last-minute submissions, food discoveries, and his post-exam piano recordings that somehow washed away the stress of exams and left us with something genuinely soothing to listen to. Pranav has truly been the ZEN of our cohort; calm, intellectually curious, and completely unbothered while the rest of us were collectively panicking. His keyboard skills are seriously underrated, though his love for food may be his real superpower. I have genuinely enjoyed learning, debating, laughing, and exploring with him. Wishing him immense success and a HELL LOT OF FOOD for all his future culinary adventures. And when that food-business pitch he made during the program finally becomes a reality and makes him RICH, I’m expecting at least 10% of that valuation to be attributed to my contribution. Fair business-management logic, obviously! 😄",
     "hasNote": true
   },
@@ -229,7 +229,7 @@ const YEARBOOK_PEOPLE = [
     "type": "student",
     "photo": "images/satyam-nayak.jpeg",
     "note": "Satyam bhai!It’s been great getting to know you over the last two years of MBA and watching you grow into this beautiful, incredible person! You’ve got such a great head on your shoulders, a great collection of memes, emojis and GIFs 😜😁 that you timely express yourself with, and your energy has always made everything better! I’m glad I got to meet you, bro and how our paths crossed during this crazy journey. Just keep being you, and I believe you're going to slay whatever comes next. All the best bhai!",
-    "hasNote": false
+    "hasNote": true
   },
   {
     "name": "Shalomi Dolas",
@@ -237,7 +237,7 @@ const YEARBOOK_PEOPLE = [
     "type": "student",
     "photo": "images/shalomi-dolas.jpg",
     "note": "Hey Shalomi, it was great knowing you and working on assignments/projects with you as part of this course. Will definitely miss them, also the way we used to run to class during class component thinking we might be late and our after meal walks. Thank you for always being beside every presentation, assignment. I know you'll continue to do great in your life, all the very best!!",
-    "hasNote": false
+    "hasNote": true
   },
   {
     "name": "Shashank Deep",
