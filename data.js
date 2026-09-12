@@ -228,7 +228,7 @@ const YEARBOOK_PEOPLE = [
     "role": "PGDM-BM • Batch of 2026",
     "type": "student",
     "photo": "images/satyam-nayak.jpeg",
-    "note": "Satyam bhai!  It’s been great getting to know you over the last two years of MBA and watching you grow into this beautiful, incredible person! You’ve got such a great head on your shoulders, a great collection of memes, emojis and GIFs 😜😁 that you timely express yourself with, and your energy has always made everything better! I’m glad I got to meet you, bro and how our paths crossed during this crazy journey. Just keep being you, and I believe you're going to slay whatever comes next. All the best bhai!",
+    "note": "Satyam bhai!It’s been great getting to know you over the last two years of MBA and watching you grow into this beautiful, incredible person! You’ve got such a great head on your shoulders, a great collection of memes, emojis and GIFs 😜😁 that you timely express yourself with, and your energy has always made everything better! I’m glad I got to meet you, bro and how our paths crossed during this crazy journey. Just keep being you, and I believe you're going to slay whatever comes next. All the best bhai!",
     "hasNote": false
   },
   {
