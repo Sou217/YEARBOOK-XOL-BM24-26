@@ -43,7 +43,7 @@ const YEARBOOK_PEOPLE = [
     "name": "Aditya Khorana",
     "role": "PGDM-BM • Batch of 2026",
     "type": "student",
-    "photo": "images/aditya-khorana.jpeg",
+    "photo": null,
     "note": "Aditya is an incredibly sincere, dedicated and hardworking person who always keeps the group connected and on track. Despite his time constraints and constant travelling, he consistently manages everything with remarkable commitment. He is also an excellent friend, always knowing how to cheer everyone up and bring positive energy to the group. What truly stands out is his leadership, dependability, and inspiring personality. I deeply respect him for the qualities he possesses and the way he motivates everyone around him. Wishing you all the very best, Aditya. Keep inspiring, leading, and achieving great things!",
     "hasNote": true
   },
@@ -60,7 +60,7 @@ const YEARBOOK_PEOPLE = [
     "role": "PGDM-BM • Batch of 2026",
     "type": "student",
     "photo": "images/amolya-sharma.jpeg",
-    "note": "Someone who is always full of energy, fun and a little bit of craziness! She has a way of making even the most boring days fun with her jokes, random gossip and crazy conversations. One of the most genuine and warm people you can come across. She knows how to have fun, but at the same time is someone people can always count on. Full of life, caring and always up for some madness. Definitely someone who made the MBA journey a little more fun and memorable.",
+    "note": null,
     "hasNote": false
   },
   {
@@ -83,7 +83,7 @@ const YEARBOOK_PEOPLE = [
     "name": "Anujay Dutt",
     "role": "PGDM-BM • Batch of 2026",
     "type": "student",
-    "photo": "images/anujay-dutt.jpeg",
+    "photo": null,
     "note": "During our starting days, even before our classes had begun, I got in touch with Anujay. He asked me, “I missed the class… can you teach me?” 😂 At that time, I thought, Wow, he looks like such a studious person! Later, I got to know the original truth… hahaha! 😄\n\nHowever, the friendship we have built over these two years has been truly fantastic. Somewhere along the way, our families have also bonded so beautifully. We’ve been to each other’s homes so many times that they hardly feel like someone else’s place anymore — they feel like home sweet home. ❤️\n\nAnd I genuinely believe the bond we’ve created is strong and special. I hope it always stays the same, AJ. Here’s to many more memories, laughter, and years of friendship! 🥂❤️",
     "hasNote": true
   },
@@ -107,7 +107,7 @@ const YEARBOOK_PEOPLE = [
     "name": "B Lakshmi Priya",
     "role": "PGDM-BM • Batch of 2026",
     "type": "student",
-    "photo": "images/blakshmi-priya.jpg",
+    "photo": null,
     "note": "Dear Lakshmipriya,\n\nWhen we first met during our first Campus Component, my impression of you was that you were a very quiet and reserved person. However, as we spent more time together through our cohort activities and especially during CC3, I had the opportunity to know you much better.\n\nWhat stood out to me was not just your intelligence, but also your kindness and willingness to help others. You have always been cooperative, thoughtful, and approachable, making it easy for people around you to feel comfortable. Your calm and composed nature is truly admirable, and at the same time, your fun-loving spirit brings warmth and positivity to every interaction.\n\nIt has been wonderful getting to know you over these two years. Wishing you continued success, happiness, and fulfillment in everything you do. I'm sure you'll make a positive impact wherever life takes you.\n\nBest wishes always!",
     "hasNote": true
   },
@@ -139,7 +139,7 @@ const YEARBOOK_PEOPLE = [
     "name": "Kirtika Agrawal",
     "role": "PGDM-BM • Batch of 2026",
     "type": "student",
-    "photo": "images/kirtika-agrawal.jpeg",
+    "photo": null,
     "note": "Some people study hard and make sure everyone knows it. Then there’s you, quietly doing your thing and somehow ending up at the top of the class every single time.\n\nAlways helpful, always dependable, and somehow always managing to finish assignments at the last possible moment, you have definitely made college a little more interesting. \n\nJokes apart, you’re genuinely a great person with a wonderful heart. Wishing you all the success ahead and hoping you continue to surprise everyone, both inside and outside the classroom. All the best for everything ahead!",
     "hasNote": true
   },
@@ -147,7 +147,7 @@ const YEARBOOK_PEOPLE = [
     "name": "Manvendra Singh",
     "role": "PGDM-BM • Batch of 2026",
     "type": "student",
-    "photo": "images/manvendra-singh.jpeg",
+    "photo": null,
     "note": "Witty, intelligent, well read person of our batch and the Mafias 🔥with a sharp sense of humor. Might as be the next Dhirubhai( enterprinter) of the nation. I’m really glad our two years of studying together turned into a friendship that I value. Hope to have met ur daughter this time.",
     "hasNote": true
   },
@@ -155,7 +155,7 @@ const YEARBOOK_PEOPLE = [
     "name": "Navya Goyal",
     "role": "PGDM-BM • Batch of 2026",
     "type": "student",
-    "photo": "images/navya-goyal.jpeg",
+    "photo": null,
     "note": "Navya is identified as one of the youngest in our batch .Someone who is chirpy ,confident and speaks out loud.Everyone has a calling in life and she has to be an enterprenuer probably something she has inherited from her family lineage.Her field is that of sustainable decor and she seeks to make an impact in it.Overall a friend whose heart is in the right place.",
     "hasNote": true
   },
@@ -179,7 +179,7 @@ const YEARBOOK_PEOPLE = [
     "name": "Pranav Venkatesh Bhat",
     "role": "PGDM-BM • Batch of 2026",
     "type": "student",
-    "photo": "images/pranav-venkateshbhat.jpg",
+    "photo": null,
     "note": "Who knew Pranav and I would end up in the same cohort from Day 1 not something either of us probably expected, but two years later, I’d say I have quite a story to tell! Countless debates, last-minute submissions, food discoveries, and his post-exam piano recordings that somehow washed away the stress of exams and left us with something genuinely soothing to listen to. Pranav has truly been the ZEN of our cohort; calm, intellectually curious, and completely unbothered while the rest of us were collectively panicking. His keyboard skills are seriously underrated, though his love for food may be his real superpower. I have genuinely enjoyed learning, debating, laughing, and exploring with him. Wishing him immense success and a HELL LOT OF FOOD for all his future culinary adventures. And when that food-business pitch he made during the program finally becomes a reality and makes him RICH, I’m expecting at least 10% of that valuation to be attributed to my contribution. Fair business-management logic, obviously! 😄",
     "hasNote": true
   },
