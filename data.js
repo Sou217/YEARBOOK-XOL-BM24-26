@@ -179,7 +179,7 @@ const YEARBOOK_PEOPLE = [
     "name": "Pranav Venkatesh Bhat",
     "role": "PGDM-BM • Batch of 2026",
     "type": "student",
-    "photo": "images/pranav-venkateshbhat.jpg",
+    "photo": "images/pranav-venkateshbhat.jpeg",
     "note": "Who knew Pranav and I would end up in the same cohort from Day 1 not something either of us probably expected, but two years later, I’d say I have quite a story to tell! Countless debates, last-minute submissions, food discoveries, and his post-exam piano recordings that somehow washed away the stress of exams and left us with something genuinely soothing to listen to. Pranav has truly been the ZEN of our cohort; calm, intellectually curious, and completely unbothered while the rest of us were collectively panicking. His keyboard skills are seriously underrated, though his love for food may be his real superpower. I have genuinely enjoyed learning, debating, laughing, and exploring with him. Wishing him immense success and a HELL LOT OF FOOD for all his future culinary adventures. And when that food-business pitch he made during the program finally becomes a reality and makes him RICH, I’m expecting at least 10% of that valuation to be attributed to my contribution. Fair business-management logic, obviously! 😄",
     "hasNote": true
   },
